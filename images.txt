@@ -1,1 +1,1 @@
-ubuntu:22.04
+tensorflow/tensorflow:1.12.0-devel-gpu-py3
