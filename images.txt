@@ -1,1 +1,1 @@
-sbs20/scanservjs:latest
+archlinux:base-devel
